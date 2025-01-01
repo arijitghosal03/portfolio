@@ -13,9 +13,7 @@ export function HeroSection() {
         <p className="text-xl text-muted-foreground mb-8">
           Full Stack Developer specializing in building AI applications.
           </p>
-          <p className="text-xl text-muted-foreground mb-8">
-          Currently a Final Year B.Tech student exploring oppurtunities in the field of Information Technology.
-        </p>
+          
         <div className="flex justify-center lg:justify-start gap-4 mb-8">
           <Button asChild>
             <Link href="/projects">
