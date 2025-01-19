@@ -10,7 +10,7 @@ export default function Projects() {
     {
       title: "Ecommerce Electronics Application",
       description: "A full-stack web application for listing and buying electronic gadgets online using Django framework and React Frontend",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      image: "https://images.unsplash.com/photo-1557821552-17105176677c",
       tags: ["React.js", "Javascript", "Tailwind CSS", "Django", "Python","SQLite"],
       githubUrl: "https://github.com/arijitghosal03/gocart_webapp",
       liveUrl: "https://github.com/arijitghosal03/gocart_webapp",
@@ -18,7 +18,7 @@ export default function Projects() {
     {
       title: "Campus Konnect",
       description: "A Job Hiring Platform for college students built using Next.js and Firebase",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c",
+      image: "/ck.jpg",
       tags: ["Next.Js", "Node.js", "Javascript", "React"],
       githubUrl: "https://github.com/ramik10/Sarss",
       liveUrl: "https://sarss-chi.vercel.app/",
@@ -26,7 +26,7 @@ export default function Projects() {
     {
       title: "  Email Spam Detector",
       description: "Spam Email Detection Web Application with 4 classifier Models and graph comparision between them",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
       tags: ["Flask", "Python", "HTML", "CSS"],
       githubUrl: "https://github.com/arijitghosal03/Classification",
       liveUrl: "https://classification-xbeo.onrender.com/",
