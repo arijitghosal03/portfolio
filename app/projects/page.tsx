@@ -8,20 +8,28 @@ import Image from "next/image"
 export default function Projects() {
   const projects = [
     {
-      title: "Project One",
-      description: "A full-stack web application built with Next.js and Supabase",
+      title: "Ecommerce Electronics Application",
+      description: "A full-stack web application for listing and buying electronic gadgets online using Django framework and React Frontend",
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
-      tags: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase"],
-      githubUrl: "https://github.com",
-      liveUrl: "https://example.com",
+      tags: ["React.js", "Javascript", "Tailwind CSS", "Django", "Python","SQLite"],
+      githubUrl: "https://github.com/arijitghosal03/gocart_webapp",
+      liveUrl: "https://github.com/arijitghosal03/gocart_webapp",
     },
     {
-      title: "Project Two",
-      description: "An e-commerce platform with real-time updates",
+      title: "Campus Konnect",
+      description: "A Job Hiring Platform for college students built using Next.js and Firebase",
       image: "https://images.unsplash.com/photo-1557821552-17105176677c",
-      tags: ["React", "Node.js", "PostgreSQL", "Redux"],
-      githubUrl: "https://github.com",
-      liveUrl: "https://example.com",
+      tags: ["Next.Js", "Node.js", "Javascript", "React"],
+      githubUrl: "https://github.com/ramik10/Sarss",
+      liveUrl: "https://sarss-chi.vercel.app/",
+    },
+    {
+      title: "  Email Spam Detector",
+      description: "Spam Email Detection Web Application with 4 classifier Models and graph comparision between them",
+      image: "https://images.unsplash.com/photo-1557821552-17105176677c",
+      tags: ["Flask", "Python", "HTML", "CSS"],
+      githubUrl: "https://github.com/arijitghosal03/Classification",
+      liveUrl: "https://classification-xbeo.onrender.com/",
     },
     // Add more projects as needed
   ]
