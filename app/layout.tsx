@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Arijit Ghosal',
-  description: 'This is my portfolio webiste',
+  description: 'Portfolio Website',
   icons: '/favicon.png',
     
 };
