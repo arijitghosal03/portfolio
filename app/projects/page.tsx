@@ -18,7 +18,7 @@ export default function Projects() {
     {
       title: "Campus Konnect",
       description: "A Job Hiring Platform for college students built using Next.js and Firebase",
-      image: "/ck.jpg",
+      image: "/ck.png",
       tags: ["Next.Js", "Node.js", "Javascript", "React"],
       githubUrl: "https://github.com/ramik10/Sarss",
       liveUrl: "https://sarss-chi.vercel.app/",
