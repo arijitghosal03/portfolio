@@ -8,13 +8,13 @@ import Image from "next/image"
 export default function Projects() {
   const projects = [
     {
-      title: "Ecommerce Electronics Application",
-      description: "A full-stack web application for listing and buying electronic gadgets online using Django framework and React Frontend",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c",
-      tags: ["React.js", "Javascript", "Tailwind CSS", "Django", "Python","SQLite"],
-      githubUrl: "https://github.com/arijitghosal03/gocart_webapp",
-      liveUrl: "https://github.com/arijitghosal03/gocart_webapp",
-    },
+      title: "Cook My Food",
+      description: "Restaurant Management System build as a SaaS product for restaurant owners with advanced carting system, checkout, admin dashboard and JWT authentication.",
+      image: "/cmf.png",
+      tags: ["Javascript", "Go", "ReactJS", "JWT","Tailwind Css"],
+      githubUrl: "https://github.com/arijitghosal03/MVC_project",
+      liveUrl: "https://cook-my-food.vercel.app/",
+    }, 
     {
       title: "Campus Konnect",
       description: "A Job Hiring Platform for college students built using Next.js and Firebase",
@@ -31,6 +31,15 @@ export default function Projects() {
       githubUrl: "https://github.com/arijitghosal03/Classification",
       liveUrl: "https://classification-xbeo.onrender.com/",
     },
+    {
+      title: "Ecommerce Electronics Application",
+      description: "A full-stack web application for listing and buying electronic gadgets online using Django framework and React Frontend",
+      image: "https://images.unsplash.com/photo-1557821552-17105176677c",
+      tags: ["React.js", "Javascript", "Tailwind CSS", "Django", "Python","SQLite"],
+      githubUrl: "https://github.com/arijitghosal03/gocart_webapp",
+      liveUrl: "https://github.com/arijitghosal03/gocart_webapp",
+    },
+    
     // Add more projects as needed
   ]
 
